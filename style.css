@@ -1,0 +1,15 @@
+td, th {
+    border: 1px solid black;
+    text-align: center;
+    width: 35px;
+}
+td:hover {
+    background-color: cornsilk;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.wasDo {
+    text-decoration: line-through;
+}
